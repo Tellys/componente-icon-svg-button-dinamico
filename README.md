@@ -1,6 +1,6 @@
 # criar-componente-icon-button-dinamico-reutilizavel
 
-![Vue3 Criar Componente Icon SVG Button Dinâmico Reutilizável](https://raw.githubusercontent.com/Tellys/create-ssl-vue-https-server-localhost/master/images/create-ssl-vue-https-server-localhost.png)
+![Vue3 Criar Componente Icon SVG Button Dinâmico Reutilizável](https://raw.githubusercontent.com/Tellys/componente-icon-svg-button-dinamico/develop/imagens/Vue3-Criar-Componente-Icon-Button-Dinamico-Reutilizavel.png)
 
 
 ## Project setup
@@ -27,7 +27,7 @@ npm run lint
 #### 9) Watch video turorial
 https://youtu.be/sip_zkqlXAY?feature=shared
 
-[![Assista ao vídeo](https://raw.githubusercontent.com/Tellys/create-ssl-vue-https-server-localhost/master/images/youtube-print.png)](https://youtu.be/sip_zkqlXAY?feature=shared)
+[![Assista ao vídeo](https://raw.githubusercontent.com/Tellys/componente-icon-svg-button-dinamico/develop/imagens/Criar-Componente-Icon-Button-Dinamico-Reutilizavel-%5Byoutube%5D.png)](https://youtu.be/sip_zkqlXAY?feature=shared)
 
 
 #### 10) Mais informações
