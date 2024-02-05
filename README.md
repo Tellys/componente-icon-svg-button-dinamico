@@ -1,4 +1,7 @@
-# criar-componente-icon-button-dinamico-reutilizavel
+# Criar Componente Icon Button Dinamico Reutilizavel
+
+Veja o [tutorial completo](https://www.conteudopertinente.com.br/vue3/vue3-criar-componente-icon-svg-button-dinamico-reutilizavel/).
+[https://www.conteudopertinente.com.br/vue3/vue3-criar-componente-icon-svg-button-dinamico-reutilizavel/](https://www.conteudopertinente.com.br/vue3/vue3-criar-componente-icon-svg-button-dinamico-reutilizavel/)
 
 ## Project setup
 ```
